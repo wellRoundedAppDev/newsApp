@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="str_search_edit_text">Search for news</string>
+    <string name="str_load_more_button">Load More</string>
+</resources>
